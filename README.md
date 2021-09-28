@@ -13,3 +13,14 @@ In my portfolio website I want to have:
 3. The about page will have some knowledge about me, my likes and my goals. This page will also contain links to other websites with my stuff on it.
 
 4. Animations?
+
+
+Some examples of website to take inspiration from:
+
+1. https://jacekjeznach.com/
+
+2. https://mattfarley.ca/
+
+3. http://www.emilyridge.ie/
+
+4. https://chrispederick.com/
