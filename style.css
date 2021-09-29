@@ -1,10 +1,10 @@
-html {
-    
-}
 .title {
     text-align: center;
     margin-bottom: 20px;
-    background-image: linear-gradient(45deg, #f1a0cd65, #6060ca65);
+    background-image: linear-gradient(90deg, #acacac, #6e6e6e);
     box-sizing: border-box;
     height: 100vh;
+}
+.bio {
+    background-color: lightpink;
 }
