@@ -1,10 +1,20 @@
-.title {
-    text-align: center;
-    margin-bottom: 20px;
-    background-image: linear-gradient(90deg, #acacac, #6e6e6e);
-    box-sizing: border-box;
-    height: 100vh;
+body{
+    display:flex;
+    flex-direction: column;
+    margin: 0;
 }
-.bio {
-    background-color: lightpink;
+.nav {
+    display:flex;
+    gap: 10px;
+    background-color: #101f50;
+    color:#ebebf0;
+}
+.title {
+    background-image: url("./mountains.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    height:70vh;
+}
+ul {
+    list-style-type: none;
 }

@@ -1,10 +1,11 @@
+# This
 I am beginning to get burnt out in the studying process.
 
 This is a project to take some time off from the structured curiculum I am currently doing but hopefully still progressing in my knowledge and helping my future self.
 
 This project will be to create a portfolio page where I can store my future projects. Getting this up and running will help a lot.
 
-In my portfolio website I want to have:
+# In my portfolio website I want to have:
 
 1. The main web page. This will have links to the other pages and will include links to things like my discord and my github.(make a linkedin)
 
@@ -15,7 +16,7 @@ In my portfolio website I want to have:
 4. Animations?
 
 
-Some examples of website to take inspiration from:
+# Some examples of website to take inspiration from:
 
 1. https://jacekjeznach.com/
 
@@ -24,3 +25,7 @@ Some examples of website to take inspiration from:
 3. http://www.emilyridge.ie/
 
 4. https://chrispederick.com/
+
+# References to the photos used
+
+[Photo by eberhard grossgasteiger from Pexels](./mountains.jpg)
