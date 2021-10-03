@@ -26,6 +26,14 @@ This project will be to create a portfolio page where I can store my future proj
 
 4. https://chrispederick.com/
 
+5. https://www.hellotinah.com/
+
 # References to the photos used
 
 [Photo by eberhard grossgasteiger from Pexels](./mountains.jpg)
+
+[Photo by Olga Lioncat from Pexels](./treevine.jpg)
+
+# Stuff to include elsewhere
+
+    <p>Hey thank you for stopping by. I've always had an interest in all things computers. From spending long nights fixing problems for myself to going to school and helping friends with their issues, this learning process has been fun. I wish to continue developing my skills and learning through doing.</p>
