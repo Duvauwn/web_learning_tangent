@@ -51,13 +51,30 @@ ul {
     padding:10px;
 }
 h1{
-    font-size:50px;
+    font-size:100px;
     color: #61892F;
 }
 .title p {
-    font-size: 18px;
+    font-size: 30px;
     color: #ebebf0;
-}/*footer*/
+}
+button {
+    margin: 0;
+    width:100px;
+    height:30px;
+    border-radius:15px;
+}
+.cv {
+    background-color: #86C232;
+    color:#ebebf0;
+    border: 2px solid #ebebf0;
+}
+.projects {
+    background-color: #ebebf0;
+    color: #61892F;
+    border: 2px solid #86C232;
+}
+/*footer*/
 .footer ul {
     display: flex;
     justify-content: flex-end;
